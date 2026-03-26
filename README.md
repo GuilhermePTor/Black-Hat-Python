@@ -55,7 +55,7 @@ black-hat-python/
 
 ## 📖 Chapter Progress
 
-* [ ] Chapter 1 — Setting Up Environment
+* [X] Chapter 1 — Setting Up Environment
 * [ ] Chapter 2 — Basic Networking Tools
 * [ ] Chapter 3 — Writing a Sniffer
 * [ ] Chapter 4 — Scapy
